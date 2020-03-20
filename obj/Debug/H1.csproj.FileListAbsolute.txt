@@ -1,0 +1,9 @@
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\obj\Debug\H1.csprojAssemblyReference.cache
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\obj\Debug\H1.Form1.resources
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\obj\Debug\H1.Properties.Resources.resources
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\obj\Debug\H1.csproj.GenerateResource.cache
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\bin\Debug\H1.exe.config
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\bin\Debug\H1.exe
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\bin\Debug\H1.pdb
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\obj\Debug\H1.exe
+C:\Users\balta\OneDrive\AN3SEM2\II\Lab II 2\H1\obj\Debug\H1.pdb
